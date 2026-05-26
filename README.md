@@ -94,18 +94,17 @@ It demonstrates authentication, role-based access control, admin user management
 
 ## 📁 Project Structure
 project/
-├── frontend/
-│ ├── src/
-│ ├── pages/
-│ ├── components/
-│ └── services/
-│
-└── backend/
-├── api/
-├── models.py
-├── views.py
-└── urls.py
-
+|-- frontend/
+|    |--src/
+|    |--pages/
+|    |--component/
+|    |--services/
+|
+|-- backend/
+|-- api/
+|-- models.py
+|-- views.py
+|-- urls.py
 
 ---
 
