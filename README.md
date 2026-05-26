@@ -136,3 +136,12 @@ npm start
 ##📸 Screenshots
 ### 🔐 Login Page
 <img width="359" height="304" alt="login" src="https://github.com/user-attachments/assets/f68a3a96-475a-4d86-bf9e-9fa5ef5237f7" />
+
+### 👨‍💼 Admin Panel
+<img width="938" height="440" alt="admin" src="https://github.com/user-attachments/assets/57c1b8c5-6e32-4135-a5c7-0487eb48ccaf" />
+
+### 🔐 Login Page
+<img width="368" height="298" alt="Screenshot 2026-05-26 192838" src="https://github.com/user-attachments/assets/b5a0496f-53ca-486b-9db9-7c02dc46b9ea" />
+
+### 📊 Dashboard
+<img width="950" height="436" alt="user" src="https://github.com/user-attachments/assets/4078906b-508d-4f1b-9327-43b3dc9c67f3" />
